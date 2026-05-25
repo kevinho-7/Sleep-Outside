@@ -1,7 +1,9 @@
 # BYU-Pathway Worldwide Online
 ## WDD 330 - Web Frontend Development II
 
-> University project!
+> University project
+
+# This project shows a simple basic knowledges about HTML5 and CSS3
 
 ### ⛺ SleepOutside Starter Code
 
