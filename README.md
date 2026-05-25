@@ -3,7 +3,7 @@
 
 > University project
 
-# This project shows a simple basic knowledges about HTML5 and CSS3
+This project shows a simple basic knowledges about HTML5, CSS3 And JavaScript
 
 ### ⛺ SleepOutside Starter Code
 
